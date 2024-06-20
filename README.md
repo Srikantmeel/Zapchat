@@ -1,6 +1,6 @@
 # ZapChat
  
-ZapChat is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) with additional technologies like Socket.io for real-time communication and TailwindCSS with Daisy UI for styling. The application features authentication and authorization using JWT, online user status, and real-time messaging.
+ZapChat is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) with additional technologies like Socket.io for real-time communication and TailwindCSS with Daisy UI for styling.
 
 ## Features
 
