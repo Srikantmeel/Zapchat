@@ -43,7 +43,7 @@ Backend: Node.js, Express, MongoDB, Socket.io, JWT
 
 #### Navigate to the frontend directory:
 	bash
-	cd ../frontend
+	cd ./frontend
 
  
 #### Install dependencies:
