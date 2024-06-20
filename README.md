@@ -5,8 +5,12 @@ ZapChat is a real-time messaging application built using the MERN stack (MongoDB
 ## Features
 
 Authentication and Authorization: Secure user authentication using JSON Web Tokens (JWT).
+
 Real-time Messaging: Instant messaging functionality powered by Socket.io.
+
 Online User Status: Display online status of users using Socket.io and React Context.
+
+
 Modern UI: Clean and responsive design using TailwindCSS and Daisy UI.
 
 
