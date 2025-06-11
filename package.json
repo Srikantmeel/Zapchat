@@ -1,10 +1,14 @@
 {
+  "homepage": "https://srikantmeel.github.io/zapchat/",
   "name": "zapchat",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "server": "nodemon backend/server.js"
+    "server": "nodemon backend/server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+    
   },
   "keywords": [],
   "author": "",
